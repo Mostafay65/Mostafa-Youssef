@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Software+Engineer;Competitive+programmer;3x+ECPC+finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
 
-# 💫 About Me:
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me:
   - Software Engineer with a Bachelor’s in Computer Science from Kafrelsheikh University, GPA 3.4/4.<br>
   - Experienced in ReactJS, C#/.NET Core, Python, and competitive programming.<br>	
   - Developed full-stack applications including EcoCart (React-based e-commerce), BlogerHub (C# RESTful API blog system), and a Hospital Management System (ASP.NET Core).<br>	
