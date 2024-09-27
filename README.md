@@ -1,10 +1,10 @@
 # 💫 About Me:
-	-Software Engineer with a Bachelor’s in Computer Science from Kafrelsheikh University, GPA 3.4/4.<br>	
-  	-Experienced in ReactJS, C#/.NET Core, Python, and competitive programming.<br>	
-  	-Developed full-stack applications including EcoCart (React-based e-commerce), BlogerHub (C# RESTful API blog system), and a Hospital Management System (ASP.NET Core).<br>	
-  	-Proficient in data structures, algorithms, and solved 2000+ problems on platforms like LeetCode and Codeforces.<br>	
-  	-Achieved top rankings in ECPC’22, ECPC’23, ECPC’24 and IEEE Mega Tech Problem Solving Contest.<br>	
-  	-Strong knowledge of object-oriented programming, RESTful APIs, and JWT authentication.
+  - Software Engineer with a Bachelor’s in Computer Science from Kafrelsheikh University, GPA 3.4/4.<br>
+  - Experienced in ReactJS, C#/.NET Core, Python, and competitive programming.<br>	
+  - Developed full-stack applications including EcoCart (React-based e-commerce), BlogerHub (C# RESTful API blog system), and a Hospital Management System (ASP.NET Core).<br>	
+  - Proficient in data structures, algorithms, and solved 2000+ problems on platforms like LeetCode and Codeforces.<br>	
+  - Achieved top rankings in ECPC’22, ECPC’23, ECPC’24 and IEEE Mega Tech Problem Solving Contest.<br>	
+  - Strong knowledge of object-oriented programming, RESTful APIs, and JWT authentication.
 
 
 ## 🌐 Socials:
